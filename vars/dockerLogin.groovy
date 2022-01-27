@@ -3,5 +3,5 @@
 import com.shared.docker
 
 def call() {
-    return new dockert(this).dockerLogin()
+    return new docker(this).dockerLogin()
 }

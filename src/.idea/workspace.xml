@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="00f7b05f-735b-407f-b76c-b907ee06b36d" name="Changes" comment="" />
+    <list default="true" id="00f7b05f-735b-407f-b76c-b907ee06b36d" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../vars/buildImage.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../vars/buildImage.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vars/dockerLogin.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../vars/dockerLogin.groovy" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../vars/dockerPush.groovy" beforeDir="false" afterPath="$PROJECT_DIR$/../vars/dockerPush.groovy" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
