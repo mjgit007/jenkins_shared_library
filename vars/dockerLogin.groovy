@@ -2,6 +2,6 @@
 
 import com.shared.docker
 
-def call() {
-    return new docker(this).dockerLogin()
+def call(String repo) {
+    return new docker(this).dockerLogin( repo)
 }
